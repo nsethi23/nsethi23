@@ -13,4 +13,4 @@ Python · JavaScript · Swift · Java · C++ · React · PyTorch · OpenCV · Fi
 ## Currently
 Looking for software engineering internships for Summer 2026. Open to AI/ML, full-stack, or anything fast-moving.
 
-📫 nsethi0423@gmail.com · [LinkedIn](https://linkedin.com/in/sethi-neil)
+nsethi0423@gmail.com · [LinkedIn](https://linkedin.com/in/sethi-neil)
