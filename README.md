@@ -1,6 +1,6 @@
 # Hey, I'm Neil
 
-Computer Engineering student at Georgia Tech (3.7 GPA) who builds things end-to-end — from ML research pipelines to shipped consumer apps.
+Computer Engineering student at Georgia Tech who builds things end-to-end — from ML research pipelines to shipped consumer apps.
 
 ## What I've built
 - **GooseCart** — local delivery marketplace, top 5% of YC applicants out of 27,000+ startups
