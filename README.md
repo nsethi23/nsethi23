@@ -1,11 +1,11 @@
 # Hey, I'm Neil
 
-Computer Engineering student at Georgia Tech who builds things end-to-end — from ML research pipelines to shipped consumer apps.
+Third-year Computer Engineering student at Georgia Tech. I like low-latency systems, performance measurement, and building things end to end, from high-performance C++ to ML pipelines to shipped apps.
 
 ## What I work with
-Python · JavaScript · Swift · Java · C++ · React · PyTorch · OpenCV · Firebase
+C++ · Python · Java · JavaScript · Swift · SQL · React · FastAPI · PyTorch · TensorFlow · OpenCV · Firebase
 
 ## Currently
-Looking for software engineering internships for Fall 2026. Open to AI/ML, full-stack, or anything fast-moving.
+Looking for Summer 2027 software engineering internships, especially low-latency systems, ML infrastructure, and full-stack work.
 
-nsethi0423@gmail.com · [LinkedIn](https://linkedin.com/in/sethi-neil)
+nsethi0423@gmail.com · [LinkedIn](https://linkedin.com/in/sethi-neil) · [Site](https://neil-sethi.vercel.app)
